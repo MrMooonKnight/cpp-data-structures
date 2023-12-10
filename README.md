@@ -5,6 +5,8 @@
 
 
 [![forthebadge](https://forthebadge.com/images/featured/featured-contains-cat-gifs.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
+https://forthebadge.com/images/badges/made-with-c-plus-plus.svg
 
 # Data Structures in C++
 
