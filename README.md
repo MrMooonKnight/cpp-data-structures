@@ -4,6 +4,8 @@
 ![C++](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 
+[![forthebadge](https://forthebadge.com/images/featured/featured-contains-cat-gifs.svg)](https://forthebadge.com)
+
 # Data Structures in C++
 
 This repository contains implementations of various data structures in C++.
